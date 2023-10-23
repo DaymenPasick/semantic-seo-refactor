@@ -11,9 +11,11 @@ According to the goals your company wanted to achieve, we were able to add the f
 - Added alt attributes to all of your images and icons to help meet the modern-day accessibility standards 
 - Added slight hover animations over navigational links on the webpage to help user see which link they are selecting
 
-## Installation
+## Screenshots
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+- Image of final product 
+
+![comeplted product website screenshot](assets/images/2023-Horiseon-Social-Solution-Services.png)
 
 ## Usage
 
