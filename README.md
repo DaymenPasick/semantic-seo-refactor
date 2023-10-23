@@ -7,7 +7,9 @@ According to the goals your company wanted to achieve, we were able to add the f
 - Repaired an issue with the broken "search engine optimization" navigation link. It should be functioning as intended!
 - By replacing some generic tags with more SEO friendly semantic tags, we were able to improve your website's ability to pop out in web searches, increasing your reach to future customors!
 - Cleaner code, including newly added comments within the HTML and CSS to help future developer's work more efficiently on your website!
-- What did you learn?
+- Fixed some minor issues with head elements to make sure they were in numeric order and functioning as intended
+- Added alt attributes to all of your images and icons to help meet the modern-day accessibility standards 
+- Added slight hover animations over navigational links on the webpage to help user see which link they are selecting
 
 ## Installation
 
@@ -33,20 +35,7 @@ UNC Charlotte Code Bootcamp course README template: https://bootcampspot.instruc
 
 N/A
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
 ## Features
 
-If your project has a lot of features, list them here.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+In depth log of choices and thought processes regarding all of the edits made to your websites code:
+https://docs.google.com/document/d/1Acf-gO6f2TcUWDvEluVkgnI2YeL_EF6g2ZkuOb-vbMA/edit?usp=sharing
