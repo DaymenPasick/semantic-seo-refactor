@@ -41,6 +41,11 @@ header nav ul li {
     margin-left: 25px;
 }
 
+header nav ul li:hover {
+    font-style: italic;
+    text-decoration: underline;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
