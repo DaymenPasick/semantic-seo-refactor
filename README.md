@@ -17,14 +17,6 @@ According to the goals your company wanted to achieve, we were able to add the f
 
 ![comeplted product website screenshot](assets/images/2023-Horiseon-Social-Solution-Services.png)
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 UNC Charlotte Code Bootcamp course README template: https://bootcampspot.instructure.com/courses/4403/pages/3-dot-5-3-create-a-professional-project-readme?module_item_id=974099 
 (requires access to bootcamp portal to be able to access)
