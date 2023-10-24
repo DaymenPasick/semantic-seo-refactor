@@ -21,6 +21,12 @@ According to the goals your company wanted to achieve, we were able to add the f
 UNC Charlotte Code Bootcamp course README template: https://bootcampspot.instructure.com/courses/4403/pages/3-dot-5-3-create-a-professional-project-readme?module_item_id=974099 
 (requires access to bootcamp portal to be able to access)
 
+## Usage
+
+Click the link to view your updated webpage: 
+https://daymenpasick.github.io/semantic-seo-refactor/
+
+
 ## License
 
 N/A
