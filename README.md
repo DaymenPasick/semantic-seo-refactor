@@ -26,10 +26,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![alt text](assets/images/screenshot.png)
 
 ## Credits
-
-Partnered with Sara Neubert "Seven" throughout this project for brainstorming and pseudo-coding. But authored my own original code and edits!
-Github account N/A 
-
 UNC Charlotte Code Bootcamp course README template: https://bootcampspot.instructure.com/courses/4403/pages/3-dot-5-3-create-a-professional-project-readme?module_item_id=974099 
 (requires access to bootcamp portal to be able to access)
 
