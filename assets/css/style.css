@@ -38,6 +38,9 @@ p {
 
 
 /* start of <header> styling code */
+
+/* changed .header selector to just header, executed the same change to all of the .header selectors
+for the header portion of CSS*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -54,6 +57,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* changed div selectors to nav selectors for the header portion of CSS  */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
