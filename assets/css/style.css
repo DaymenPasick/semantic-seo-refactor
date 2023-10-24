@@ -39,8 +39,7 @@ p {
 
 /* start of <header> styling code */
 
-/* changed .header selector to just header, executed the same change to all of the .header selectors
-for the header portion of CSS*/
+/* changed .header selector to just <header> for the entire header section in CSS */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -57,7 +56,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* changed div selectors to nav selectors for the header portion of CSS  */
+/* changed <div> selectors to <nav> selectors for the header portion of CSS  */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -83,38 +82,8 @@ header nav ul li:hover {
 
 
 
-/* start of <aside> styling code */
-aside {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-aside section {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-aside img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-aside h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/* end of <aside> styling code */
-
-
-
 /* start of <main> styling code */
+/* changed .main selectors to <main> selectors for all of the main portion of CSS */
 main {
     width: 75%;
     display: inline-block;
@@ -148,15 +117,49 @@ main {
     color: #ffffff;
 }
 
+/* consolidated down to just one selector rather than three <img> selectors */
 main img {
     max-height: 200px;
 }
 
+/* consolidated down to just one selector rather than three <h2> selectors */
 main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 /* end of <main> styling code */
+
+
+
+
+/* start of <aside> styling code */
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+aside section {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+aside img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+aside h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* end of <aside> styling code */
 
 
 
