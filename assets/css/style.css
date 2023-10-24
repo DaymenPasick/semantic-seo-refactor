@@ -90,6 +90,7 @@ main {
     margin-left: 20px;
 }
 
+/* changed selectors from .class to #ID's for the following three objects */
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
